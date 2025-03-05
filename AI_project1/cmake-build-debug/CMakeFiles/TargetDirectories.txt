@@ -1,3 +1,0 @@
-C:/Users/Miruna/CLionProjects/AI_project1/cmake-build-debug/CMakeFiles/AI_project1.dir
-C:/Users/Miruna/CLionProjects/AI_project1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Miruna/CLionProjects/AI_project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
